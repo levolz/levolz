@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there 👋 find a map through my online presence below
+
+ - my academic website: [levolz.github.io](https://levolz.github.io/)
+ - AMPL lab website: [AMPL](https://ampl-psych.com/) & [me](https://ampl-psych.com/team/leonhard-volz/)
+
+My stops in Open Science:
+ - [JEPS](https://jeps.efpsa.org/)
+ - [SOSIP](https://psyfako.org/ueber-uns/arbeitsgruppen/#openscience)
+ - [SIOS](https://www.studentinitiativeopenscience.com/)
+
+Workshops repositories:
+ - TBD...
 
 <!--
 **levolz/levolz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
